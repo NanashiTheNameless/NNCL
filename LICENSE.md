@@ -1,4 +1,4 @@
-# Nameless Nanashi Code License (NNCL) v1.1
+# Nameless Nanashi Code License (NNCL) v1.2
 
 **Copyright © 2025 [NamelessNanashi](<https://git.NamelessNanashi.dev/>)**
 
@@ -43,7 +43,7 @@ When You Share the Work or any Adaptation, You must:
 
 The Work must **not** be used to promote or enable bigotry, discrimination, or the violation of human rights. Specifically including but not limited to:
 
-- No use for racism, xenophobia, queerphobia, transphobia, homophobia, enbyphobia, or misogyny.
+- No use for racism, xenophobia, queerphobia, transphobia, homophobia, enbyphobia, misogyny, misandry, and/or sexism.
 - No use to inflict or facilitate violence, repression, or human-rights abuses as defined by widely recognized frameworks (e.g., the UDHR and ECHR) and relevant court rulings.
 - No use by law-enforcement, carceral, immigration-enforcement, military, or military-contractor entities, nor by individuals acting on their behalf.
 
