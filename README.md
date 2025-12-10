@@ -6,7 +6,7 @@ Inspired by [Avris's OQL](<https://oql.avris.it/>) I decided I would make my own
 
 See the license in the [LICENSE.md](<LICENSE.md>) file
 
-## NNCL License TL;DR
+## NNCL v1.3 License TL;DR
 
 **This is a simplified summary and does not replace the full license terms.**
 
