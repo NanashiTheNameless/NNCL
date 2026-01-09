@@ -25,6 +25,7 @@ See the license in the [LICENSE.md](<LICENSE.md>) file
 
 ### What You Cannot Do
 
+- Use it for racism, xenophobia, queerphobia, transphobia, homophobia, enbyphobia, misogyny, misandry, and/or sexism.
 - Use it for commercial purposes (sales, subscriptions, SaaS, ads, etc.)
 - Train commercial AI or ML models with it
 - Use it to enable discrimination or violence
