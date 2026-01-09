@@ -30,7 +30,7 @@ See the license in the [LICENSE.md](<LICENSE.md>) file
 - Train commercial AI or ML models with it
 - Use it to enable discrimination or violence
 - Alter or remove the license terms
-- Deploy it for law enforcement, military, or immigration enforcement
+- Use it for law enforcement, military, or immigration enforcement
 
 ### Key Points
 
