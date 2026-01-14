@@ -104,7 +104,7 @@ This license does not grant permission to use the Licensor’s name, logos, or t
 6. **No Obligation to Refund**: Revocation creates no obligation on the Licensor to provide support, updates, or refunds (if any were paid under a separate agreement).
 7. **Commercial Licenses**: If You hold a separate written commercial license from the Licensor, this Section 9A does not affect that agreement unless the revocation notice expressly states otherwise.
 8. **Reinstatement**: The Licensor may, at their sole discretion, reinstate Your license rights under this section in writing (including by email or public notice), subject to any conditions the Licensor may impose.
-9. **Survival**: Sections 11–14 survive revocation. Sections 3–6 survive only to the extent necessary to complete the takedown and cessation obligations described above.
+9. **Survival**: Sections 11-14 survive revocation. Sections 3-6 survive only to the extent necessary to complete the takedown and cessation obligations described above.
 
 ---
 
